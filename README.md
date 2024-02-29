@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/saptarsimitra" target="blank"><img src="https://img.shields.io/twitter/follow/saptarsimitra?logo=twitter&style=for-the-badge" alt="saptarsimitra" /></a> </p>
 
-- 🔭 I’m currently working on <a href="https://saptarsimitra.vercel.app/" target="blank">[My Portfolio]</a>
+- 🔭 I’m currently working on <a href="https://saptarsimitra.vercel.app/" target="_blank"> [My Portfolio] </a>
 - 🌱 I’m currently learning **3D Motion Design for the Web**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rishii64](https://github.com/rishii64)
