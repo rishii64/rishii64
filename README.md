@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **3D Motion Design for the Web, Next.JS**
   
-- 👓 Have a look on <a href="https://saptarsimitra.vercel.app/" target="_blank"> [My Portfolio] </a>
+- 👓 Have a look on <a href="https://saptarsimitra.vercel.app/" target="_blank"> My Portfolio </a>
 
 - 👨‍💻 All of my projects are available at [https://github.com/rishii64](https://github.com/rishii64)
 
