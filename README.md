@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1VVbp0X4-ZTa-HX6WzZQyjtW9u6XFesVZ/view?usp=drive_link](https://drive.google.com/file/d/1VVbp0X4-ZTa-HX6WzZQyjtW9u6XFesVZ/view?usp=drive_link)
 
-- ⚡ Fun fact **I love watching Anime and keep upgrading myself on latest technologies 😉**
+- ⚡ Fun fact:  **I love watching Anime and keep upgrading myself on latest technologies 😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
