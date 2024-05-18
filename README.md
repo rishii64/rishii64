@@ -79,7 +79,7 @@
 ###
 
 <br clear="both">
-<h4>Watch my Contribution Graph  being eaten: </p>
+<h4>👉  Watch my Contribution Graph  being eaten: </p>
 <img src="https://raw.githubusercontent.com/rishii64/rishii64/output/snake.svg" alt="Snake animation" />
 
 ###
