@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋! Myself Saptarsi Mitra and I'm a Full Stack Engineer, from India. </h2>
 
 <div align="center">
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+<img width="100%" height="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
   <img src="[https://drive.google.com/file/d/1_wntLDIcKeOxxwZ_deKkF3huWhEipdBJ/view?usp=sharing](https://drive.google.com/file/d/1_wntLDIcKeOxxwZ_deKkF3huWhEipdBJ/view?usp=drive_link)"/>
 </div>
 
@@ -9,7 +9,7 @@
 
 <img align="left" height="150" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"  />
 
-<img align="right" height="150" src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTYwMDg2MDAsIm5iZiI6MTcxNjAwODMwMCwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTE4VDA0NTgyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5NmY3ZTQ0MmY3MTlkY2Y1NDk2ODBjMmVhYzY2Y2I4ZTQyZDY3MzA2OWY3MDkwYzE1MmI0ZmI2MjMwNGRmNDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.2DLmzBvDKkcqWCXJ-6nMuSWx3ECzTChjTuDmVPY9-HM"  />
+<img align="right" height="150" src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTYwMTk1NDcsIm5iZiI6MTcxNjAxOTI0NywicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTE4VDA4MDA0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgzODc2YzE3NzgyMTdiYzAxMWFjODhmODkxZmY0YzA0YTA3ZGQ5ZGZhNDg2NmUzN2QwODRlZDQxYTlkN2NjYTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.fcVhAv1TaumuQwY-_i8ky0OUPwR0KyeM-54RmeAI69k"  />
 
 ###
 
