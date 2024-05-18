@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! Myself Saptarsi Mitra and I'm a Full Stack Engineer, from India. </h2>
+<h1 align="center">Hi 👋! Myself Saptarsi Mitra and I'm a Full Stack Developer, from India. </h2>
 
 <div align="center">
 <img width="100%" height="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
@@ -79,7 +79,7 @@
 ###
 
 <br clear="both">
-
+<h4>Watch my Contribution Graph  being eaten: </p>
 <img src="https://raw.githubusercontent.com/rishii64/rishii64/output/snake.svg" alt="Snake animation" />
 
 ###
