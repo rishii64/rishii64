@@ -48,6 +48,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="30" alt="vercel logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
 </div>
 
